@@ -1,0 +1,41 @@
+body{
+    background-image: url(Images/vector-highway-road-with-metal-traffic-barriers.webp);
+    background-size: 100rem;
+}
+.head{ 
+    font-size: 30px;
+    color: black;
+    width: 890px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+    border: solid black;
+    margin-bottom: 20px;
+    border-radius: 20px;
+}
+#aboutid{
+    width:100%;
+    font-size: 30px;
+    padding-left: 50px;
+    padding-top: 50px;
+
+}
+
+.btn{
+    font-size: 40px;
+    width: 600px;
+    height: 100px;
+    border:0;
+}
+
+.container{
+    text-align: center;
+    font-family: 'Ysabeau', sans-serif;
+    font-size: 15px;
+    border: 1px solid black;
+}
+
+.fott{
+    text-align: right;
+    margin-bottom: 20px;
+ }
