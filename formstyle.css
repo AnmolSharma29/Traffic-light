@@ -1,3 +1,5 @@
+*{margin:0;
+    padding: 0;}
 body{
     font-family: 'Ysabeau', sans-serif;
     background-color: #b1f5dc;
@@ -84,6 +86,16 @@ h1{
     border-style: none;
     cursor: pointer;
 }
-.title{
-    border: solid black;
+#title{
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.abt{
+    text-align: right;
+    background-color: white;
+    padding-right: 50px;
+    padding-bottom: 15px;
+    padding-top: 15px;
+    margin-top: 0px;
+    font-size: 25px;
 }
