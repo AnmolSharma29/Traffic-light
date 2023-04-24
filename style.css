@@ -1,41 +1,83 @@
+*{margin:0;
+padding: 0;}
+
 body{
-    background-image: url(Images/vector-highway-road-with-metal-traffic-barriers.webp);
+    background-image: url(Images/abstract2.jpg);
+    height: 100%;
+    backdrop-filter: blur(3px);
+    background-position: center;
     background-size: 100rem;
+    background-attachment: fixed;
 }
 .head{ 
-    font-size: 30px;
+    font-size: 10px;
     color: black;
-    width: 890px;
+    width: 1540px;
     margin-left: auto;
     margin-right: auto;
-    margin-top: 20px;
-    border: solid black;
+    border: 0px solid black;
     margin-bottom: 20px;
-    border-radius: 20px;
+    padding-left: 30px;
+    margin-left: 0px;
+    background-color: gray;
+    margin-bottom: 100px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 30px;
+}
+.head1{
+    font-size: 50px;
+    width: 100%;
+    text-align: center;
+    color: bisque;
+    border: 0px solid black;
+    width: 1000px;
+    margin: 20px auto;
+    padding: 0 7px;
 }
 #aboutid{
     width:100%;
     font-size: 30px;
     padding-left: 50px;
     padding-top: 50px;
-
+    color: white;
 }
-
+.acc{
+    color: aliceblue;
+    margin-left: 50px;
+    margin-top: 20px;
+    font-size: 22px;
+}
 .btn{
     font-size: 40px;
     width: 600px;
     height: 100px;
-    border:0;
+    border: none;
 }
 
 .container{
     text-align: center;
     font-family: 'Ysabeau', sans-serif;
     font-size: 15px;
-    border: 1px solid black;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    border: 1px solid gray;
+    width: 450px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: gray;
+    border-radius: 20px;
 }
 
 .fott{
     text-align: right;
     margin-bottom: 20px;
+    margin-top: 300px;
+    color: bisque;
+    padding-right: 50px;
+    background-color: black;
+    padding-bottom: 20px;
+    padding-top: 20px;
+    margin-bottom: 0%;
  }
