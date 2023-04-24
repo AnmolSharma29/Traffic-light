@@ -17,18 +17,24 @@ h1{
     margin-left: auto;
     margin-right: auto;
     border-radius: 10px;
+    opacity: 0.9;
+    border-style: none;
     
 }
-#complainid{
+#complain{
     display: block;
     font-family: 'Ysabeau', sans-serif;
     padding: 10px 30px;
-    width: 400px;
     height: 100px;
+    min-width:400px;
+    max-width: 400px;
     border-radius: 10px;
     margin-left: auto;
     margin-right: auto;
+    border-style: dotted;
+    opacity: 0.9;
 }
+
 #submit{
     display: block;
     font-family: 'Ysabeau', sans-serif;
@@ -38,5 +44,6 @@ h1{
     margin-left: auto;
     margin-right: auto;
     border-radius: 20px;
+    border-style: none;
     cursor: pointer;
 }
