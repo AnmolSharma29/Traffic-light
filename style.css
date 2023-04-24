@@ -42,11 +42,20 @@ body{
     padding-top: 50px;
     color: white;
 }
+.sub{
+    margin-bottom: 30px;
+}
+.FAQ{
+    color: aliceblue;
+    margin-left: 50px;
+    margin-top: 50px;
+}
 .acc{
     color: aliceblue;
     margin-left: 50px;
     margin-top: 20px;
     font-size: 22px;
+    margin-bottom: 30px;
 }
 .btn{
     font-size: 40px;
