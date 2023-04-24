@@ -1,12 +1,13 @@
 body{
     font-family: 'Ysabeau', sans-serif;
-    background-image: url(Images/city-skyline-landmarks-illustration_23-2148810172.png);
-    background-repeat: no-repeat;
-    background-size: 100rem;
+    background-color: #b1f5dc;
 }
 h1{
 
     font-size: 3rem;
+}
+.trafffic_light{
+    margin: 0px;
 }
 .field{
     display: block;
@@ -21,6 +22,30 @@ h1{
     border-style: none;
     
 }
+.field:hover{
+    display: block;
+    font-family: 'Ysabeau', sans-serif;
+    padding: 10px 30px;
+    width: 400px;
+    height: 24px;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 10px;
+    opacity: 0.5;
+    border-style: none;
+}
+.field:active{
+    display: block;
+    font-family: 'Ysabeau', sans-serif;
+    padding: 10px 30px;
+    width: 400px;
+    height: 24px;
+    border-width: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 10px;
+    opacity: 1;
+}
 #complain{
     display: block;
     font-family: 'Ysabeau', sans-serif;
@@ -34,7 +59,19 @@ h1{
     border-style: dotted;
     opacity: 0.9;
 }
-
+#complain:hover{
+    display: block;
+    font-family: 'Ysabeau', sans-serif;
+    padding: 10px 30px;
+    height: 100px;
+    min-width:400px;
+    max-width: 400px;
+    border-radius: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    border-style: dotted;
+    opacity: 0.5;
+}
 #submit{
     display: block;
     font-family: 'Ysabeau', sans-serif;
@@ -46,4 +83,7 @@ h1{
     border-radius: 20px;
     border-style: none;
     cursor: pointer;
+}
+.title{
+    border: solid black;
 }
