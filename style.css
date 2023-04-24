@@ -11,7 +11,8 @@ body{
 }
 .head{ 
     font-size: 10px;
-    color: black;
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
     width: 1540px;
     margin-left: auto;
     margin-right: auto;
@@ -19,11 +20,12 @@ body{
     margin-bottom: 20px;
     padding-left: 30px;
     margin-left: 0px;
-    background-color: gray;
+    background-color: rgb(47, 43, 43) ;
     margin-bottom: 100px;
-    padding-top: 10px;
-    padding-bottom: 10px;
+    padding-top: 15px;
+    padding-bottom: 15px;
     padding-left: 30px;
+    text-align: center;
 }
 .head1{
     font-size: 50px;
@@ -40,18 +42,18 @@ body{
     font-size: 30px;
     padding-left: 50px;
     padding-top: 50px;
-    color: white;
+    color: rgb(190, 203, 203);
 }
 .sub{
     margin-bottom: 30px;
 }
 .FAQ{
-    color: aliceblue;
+    color:  rgb(190, 203, 203);
     margin-left: 50px;
     margin-top: 50px;
 }
 .acc{
-    color: aliceblue;
+    color:  rgb(190, 203, 203);
     margin-left: 50px;
     margin-top: 20px;
     font-size: 22px;
@@ -85,7 +87,7 @@ body{
     margin-top: 300px;
     color: bisque;
     padding-right: 50px;
-    background-color: black;
+    background-color: rgba(47, 43, 43, 0.832);
     padding-bottom: 20px;
     padding-top: 20px;
     margin-bottom: 0%;
