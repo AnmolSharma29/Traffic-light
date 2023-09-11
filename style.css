@@ -8,6 +8,7 @@ body{
     background-position: center;
     background-size: 100rem;
     background-attachment: fixed;
+    text-shadow: 3px 3px 3px black;
 }
 .head{ 
     font-size: 10px;
