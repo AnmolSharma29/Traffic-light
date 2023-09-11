@@ -2,7 +2,7 @@
 padding: 0;}
 
 body{
-    background-image: url(Images/abstract2.jpg);
+    background: linear-gradient(rgb(15, 22, 220),rgb(30, 212, 232));
     height: 100%;
     backdrop-filter: blur(3px);
     background-position: center;
